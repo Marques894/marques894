@@ -5,11 +5,8 @@
 ## 📌 Índice
 
 - [🔧 Tecnologias](#-tecnologias)
-- [📂 Estrutura do Projeto](#-estrutura-do-projeto)
 - [🚀 Instalação e Uso](#-instalação-e-uso)
-- [🛠 Funcionalidades](#-funcionalidades)
 - [📊 Estatísticas de Uso](#-estatísticas-de-uso)
-- [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
 - [📬 Contato](#-contato)
 
@@ -22,22 +19,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 | [Linguagem ou Framework 1](#) | 5 vezes |
 | [Linguagem ou Framework 2](#) | 3 vezes |
 | [Banco de Dados](#) | 4 vezes |
-
-## 📂 Estrutura do Projeto
-
-```
-📦 nome-do-projeto
-├── 📂 src
-│   ├── 📄 index.js
-│   ├── 📄 app.js
-│   └── 📂 components
-├── 📂 public
-│   ├── 📄 index.html
-│   └── 📂 assets
-├── 📄 README.md
-├── 📄 package.json
-└── 📄 .gitignore
-```
 
 ## 📊 Estatísticas de Uso
 

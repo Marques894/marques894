@@ -19,7 +19,9 @@ Bem-vindo ao meu perfil no GitHub! Me chamo Renan Marques, tenho 23 anos e estud
 ---
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marques894&show_icons=true&theme=shadow_green)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marques894&layout=compact&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marques894&layout=compact&theme=shadow_green)
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marques894&show_icons=true&theme=shadow_green)         
 
 ---
 Se gostou do projeto, deixe uma ⭐ e contribua! 🚀
